@@ -9,6 +9,7 @@ A living collection of field-tested references on designing, deploying, and debu
 
 ## Playbooks & Guides
 - [Agent Engineering: A New Discipline (LangChain)](https://blog.langchain.com/agent-engineering-a-new-discipline/) — crisp overview of the emerging agent-engineering workflow and where the sharp edges live.
+- [Pi: The Minimal Agent Within OpenClaw (Armin Ronacher)](https://lucumr.pocoo.org/2026/1/31/pi/) — deep dive into Pi’s four-tool core, extension system, and how it underpins OpenClaw-style agents.
 
 ## Contributing
 PRs welcome. Keep each link laser-specific to agent engineering, include a one-sentence description, and avoid drive-by promo content.
