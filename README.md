@@ -4,12 +4,12 @@
 A living collection of field-tested references on designing, deploying, and debugging autonomous agents.
 
 ## Table of Contents
-- [Playbooks & Guides](#playbooks--guides)
+- [Articles](#articles)
 - [Reference Projects](#reference-projects)
 - [War Stories & Postmortems](#war-stories--postmortems)
 - [Contributing](#contributing)
 
-## Playbooks & Guides
+## Articles
 - [Agent Engineering: A New Discipline (LangChain)](https://blog.langchain.com/agent-engineering-a-new-discipline/) — crisp overview of the emerging agent-engineering workflow and where the sharp edges live.
 - [Pi: The Minimal Agent Within OpenClaw (Armin Ronacher)](https://lucumr.pocoo.org/2026/1/31/pi/) — deep dive into Pi’s four-tool core, extension system, and how it underpins OpenClaw-style agents.
 - [Agentic Payments Landscape](https://chainstack.com/the-agentic-payments-landscape/)
