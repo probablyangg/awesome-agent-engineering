@@ -16,6 +16,7 @@ A living collection of field-tested references on designing, deploying, and debu
 
 ## Reference Projects
 - [mom (Pi packages)](https://github.com/badlogic/pi-mono/tree/main/packages/mom) — turnkey Pi extension that spawns Telegram/Discord-style agents, useful as a template for wiring Pi into your own surfaces.
+- [agent-qa MCP server](https://vostride.com/docs/agent-qa/mcp) — gives coding agents tools to write and run Web, Android and iOS tests, inspect execution evidence, and manage persistent memidex memory and evidence-gated self-improvement.
 
 ## War Stories & Postmortems
 - [Lobstar Wilde Incident Postmortem](https://www.ccn.com/education/crypto/ai-agent-sends-5-percent-memecoin-supply-250k-lobstar-wilde-incident/) — entertaining breakdown of an autonomous agent yeeting 5% of its memecoin supply, with solid lessons on validating tool schemas and failing closed.
